@@ -29,7 +29,7 @@ if(isset($_POST['submit'])){
         if($emailcount>0){
            echo "invalid credintals"; 
         }
-        echo "New record successfully";
+        echo "Registration successful";
     
     }
     else{
